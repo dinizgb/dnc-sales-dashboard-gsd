@@ -14,7 +14,9 @@
     "@emotion/styled": "^11.11.5",
     "@mui/material": "^5.16.1",
     "@types/styled-components": "^5.1.34",
+    "chart.js": "^4.4.3",
     "react": "^18.3.1",
+    "react-chartjs-2": "^5.2.0",
     "react-dom": "^18.3.1",
     "react-router-dom": "^6.24.1",
     "styled-components": "^6.1.11"
