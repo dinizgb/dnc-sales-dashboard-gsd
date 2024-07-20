@@ -93,7 +93,7 @@ function Home() {
                 >
                   {!highlightsLoading && highlightsData && (
                     <>
-                      <StyledH2 className="mb-1" color="white">
+                      <StyledH2 className="mb-1" color="white" id="goals-title">
                         Meta do mês
                       </StyledH2>
                       <StyledH3
